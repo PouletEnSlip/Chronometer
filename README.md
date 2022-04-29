@@ -1,5 +1,5 @@
 # Chronometer
-Simple chronometer HMI built in C++ with QT.
+Simple chronometer HMI built with C++ via QT.
 
 ![0](https://github.com/PouletEnSlip/Chronometer/blob/main/chrono.png)
 
